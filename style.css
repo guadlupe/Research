@@ -1,1 +1,41 @@
+h1 {
+  text-align: center;
+}
 
+body {
+  background-color: #FDDD00;
+}
+
+img {
+  width: 35%;
+}
+
+table {
+  border: 2px solid black;
+  margin: auto;
+}
+
+.body {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Milestone1 {
+  color: green;
+}
+
+.Milestone2 {
+  color: red;
+}
+
+.Milestone3 {
+  color: gray;
+}
+
+.Milestone4 {
+  color: purple;
+}
+
+.Milestone5 {
+  color: blue;
+}
